@@ -107,10 +107,3 @@ class DataManager:
         # if proj and self.proj is not None:
         #     acts = t.mm(acts, self.proj)
         return acts, labels
-
-
-     
-
-
-
-
